@@ -1,4 +1,4 @@
-[![MasterHead](https://img.freepik.com/vektoren-premium/webentwicklungscodierung-und-programmierung-von-futuristischem-banner-computercode-auf-laptop_3482-5582.jpg)](https://theoleuthardt.github.io)
+[![MasterHead]([https://img.freepik.com/vektoren-premium/webentwicklungscodierung-und-programmierung-von-futuristischem-banner-computercode-auf-laptop_3482-5582.jpg](https://repository-images.githubusercontent.com/588181932/e36ec678-7984-4cdd-8e4c-a3932772ff8e))](https://theoleuthardt.github.io)
 <h1 align="center">Hello there 👋, I'm Theo</h1>
 <h3 align="center">A dual student in computer science from Germany</h3>
 <img align="right" width="400" src="https://i.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.webp" />
