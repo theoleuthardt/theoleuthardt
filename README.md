@@ -5,6 +5,8 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=theoleuthardt&label=Profile%20views&color=0e75b6&style=flat" alt="theoleuthardt" /> </p>
 
+- 🔭 I’m currently working on **my portfolio in React**
+
 - 🌱 I’m currently learning **React, computer science at all**
 
 - 📫 How to reach me **theoleuthardt12@gmail.com**
