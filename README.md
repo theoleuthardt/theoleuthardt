@@ -1,6 +1,6 @@
 [![MasterHead](https://i.pinimg.com/originals/87/f3/f1/87f3f1425b217691da645e97dbb50d55.gif)](https://theoleuthardt.github.io)
 <h1 align="center">Hello there 👋, I'm Theo</h1>
-<h3 align="center">A dual student in computer science from Germany</h3>
+<h3 align="center">Average frontend enjoyer</h3>
 <img align="right" width="400" src="https://i.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.webp" />
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=theoleuthardt&label=Profile%20views&color=0e75b6&style=flat" alt="theoleuthardt" /> </p>
@@ -8,8 +8,6 @@
 - 🔭 I’m currently working on **my portfolio in React**
 
 - 🌱 I’m currently learning **React, computer science at all**
-
-- 📫 How to reach me **theoleuthardt12@gmail.com**
 
 - ⚡ Fun fact **The Scottish national animal is a unicorn.**
 
