@@ -5,9 +5,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=theoleuthardt&label=Profile%20views&color=0e75b6&style=flat" alt="theoleuthardt" /> </p>
 
-- 🔭 I’m currently working on **a Crypto ETF Charts Dashboard**
+- 🔭 I’m currently working on **a React Native Weather App**
 
-- 🌱 I’m currently learning **NextJS**
+- 🌱 I’m currently learning **Expo**
 
 - ⚡ Fun fact **The Scottish national animal is a unicorn.**
 
