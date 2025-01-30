@@ -2,7 +2,7 @@
 <a href="https://portfolio.theocloud.dev">**Portfolio on theocloud ☁**</a>
 
 # 💫 About Me:
-🔭 I’m currently working on my <a href="https://github.com/theoleuthardt/backlog-manager">**Games Backlog Manager Tool in NextJS**</a><br>🌱 I’m currently learning **NextJS**<br>👯 I’m looking to collaborate on the <a href="https://github.com/AlexInABox/grow-green">**Grow Green Game**</a><br>⚡ Fun fact **The Scottish national animal is a unicorn.**<br>
+🌱 I’m currently learning **NextJS**<br>👯 I’m looking to collaborate on the <a href="https://github.com/AlexInABox/grow-green">**Grow Green Game**</a><br>⚡ Fun fact **The Scottish national animal is a unicorn.**<br>
 
 
 # 💻 Tech Stack:
