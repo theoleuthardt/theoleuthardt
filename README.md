@@ -1,5 +1,5 @@
 # 💫 About Me:
-🌱 I’m currently learning **NextJS**<br>👯 I’m currently collaborating on the <a href="https://github.com/AlexInABox/grow-green">**Grow Green Game**</a><br>⚡ Fun fact **The Scottish national animal is a unicorn.**<br>
+🌱 I’m currently learning **NextJS**<br>👯 I’m currently working on my project <a href="https://github.com/theoleuthardt/backlog-manager">**Backlog Manager**</a><br>⚡ Fun fact **The Scottish national animal is a unicorn.**<br>
 
 
 # 💻 Tech Stack:
